@@ -1,0 +1,12 @@
+services:
+  api:
+    build: .
+    environment:
+      - BOT_API_TOKEN=${BOT_API_TOKEN}
+      - NGROK_URL=${NGROK_URL}
+
+  ngrok:
+    image: ngrok/ngrok:alpine
+    command: tunnel --label edge=${NGROK_EDGE} api:8000
+    environment:
+      - NGROK_AUTHTOKEN=${NGROK_AUTHTOKEN}
