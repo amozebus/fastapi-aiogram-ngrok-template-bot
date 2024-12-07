@@ -1,5 +1,7 @@
 # [Telegram](https://telegram.org) Bot Template (fastapi-aiogram-ngrok-template-bot)
 
+[![Docker Image CI](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/docker-image.yml/badge.svg)](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/docker-image.yml)
+
 Template for [Telegram](https://telegram.org) bot using [aiogram](https://aiogram.dev) and [webhooks](https://en.wikipedia.org/wiki/Webhook) with [FastAPI](https://fastapi.tiangolo.com)
 
 Deploy with [Docker](https://docker.com) (Compose) and [ngrok](https://ngrok.com)

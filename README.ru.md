@@ -1,5 +1,7 @@
 # Образец [Telegram](https://telegram.org/) бота (fastapi-aiogram-ngrok-template-bot)
 
+[![Docker Image CI](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/docker-image.yml/badge.svg)](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/docker-image.yml)
+
 Образец [Telegram](https://telegram.org) бота на [aiogram](https://aiogram.dev) и [вебхуках](https://ru.wikipedia.org/wiki/Webhook) на [FastAPI](https://fastapi.tiangolo.com)
 
 Деплой с [Docker](https://docker.com) (Compose) и [ngrok](https://ngrok.com)
