@@ -14,12 +14,12 @@ from .routes import r, WEBHOOK_PATH
 
 
 @asynccontextmanager
-async def lifespan(app: FastAPI):
+async def lifespan(application: FastAPI):
     """On-startup and on-shutdown events"""
-    logging.info(f"{app.title} startup")
+    logging.info("%s startup", application.title)
     await bot.set_webhook(f"{settings.NGROK_URL}{WEBHOOK_PATH}")
     yield
-    logging.info(f"{app.title} shutdown")
+    logging.info("%s shutdown", application.title)
     await bot.delete_webhook()
 
 
