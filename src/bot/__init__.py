@@ -1,8 +1,10 @@
+"""Bot initialization"""
+
 from aiogram import Bot, Dispatcher
 
-from .handlers import r as router 
-
 from config import settings
+
+from .handlers import r as router
 
 bot = Bot(token=settings.BOT_API_TOKEN)
 

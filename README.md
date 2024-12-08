@@ -1,6 +1,6 @@
 # [Telegram](https://telegram.org) Bot Template (fastapi-aiogram-ngrok-template-bot)
 
-[![Docker Compose](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/docker-compose.yml/badge.svg)](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/docker-compose.yml)
+[![Docker Compose](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/docker-compose.yml/badge.svg)](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/docker-compose.yml) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 Template for [Telegram](https://telegram.org) bot using [aiogram](https://aiogram.dev) and [webhooks](https://en.wikipedia.org/wiki/Webhook) with [FastAPI](https://fastapi.tiangolo.com)
 

@@ -1,6 +1,6 @@
 # Образец [Telegram](https://telegram.org/) бота (fastapi-aiogram-ngrok-template-bot)
 
-[![Docker Compose](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/docker-compose.yml/badge.svg)](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/docker-compose.yml)
+[![Docker Compose](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/docker-compose.yml/badge.svg)](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/docker-compose.yml) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)]("https://github.com/psf/black")
 
 Образец [Telegram](https://telegram.org) бота на [aiogram](https://aiogram.dev) и [вебхуках](https://ru.wikipedia.org/wiki/Webhook) на [FastAPI](https://fastapi.tiangolo.com)
 
