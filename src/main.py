@@ -1,4 +1,5 @@
 """Launch app with uvicorn web server"""
+
 import logging
 
 import uvicorn

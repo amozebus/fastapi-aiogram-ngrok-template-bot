@@ -1,4 +1,5 @@
 """App initialization"""
+
 import logging
 
 from contextlib import asynccontextmanager
