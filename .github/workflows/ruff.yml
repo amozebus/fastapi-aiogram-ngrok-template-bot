@@ -21,6 +21,3 @@ jobs:
     - name: Check the code with ruff
       run: |
         ruff check $(git ls-files '*.py')
-    - name: Formatting the code with ruff
-      run: |
-        ruff format $(git ls-files '*.py')
