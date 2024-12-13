@@ -1,12 +1,16 @@
+<div align="center">
+
+English | [Русский](./README.ru.md)
+
 # [Telegram](https://telegram.org) Bot Template (fastapi-aiogram-ngrok-template-bot)
 
-[![Docker Compose](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/docker-compose.yml/badge.svg)](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/docker-compose.yml) [![Pylint](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/pylint.yml/badge.svg)](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/pylint.yml) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Pylint](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/pylint.yml/badge.svg)](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/pylint.yml) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+</div>
 
 Template for [Telegram](https://telegram.org) bot using [aiogram](https://aiogram.dev) and [webhooks](https://en.wikipedia.org/wiki/Webhook) with [FastAPI](https://fastapi.tiangolo.com)
 
 Deploy with [Docker](https://docker.com) (Compose) and [ngrok](https://ngrok.com)
-
-[Русская версия README.md](./README.ru.md)
 
 ## How to launch 
 
