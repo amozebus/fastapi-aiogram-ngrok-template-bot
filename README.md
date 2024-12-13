@@ -5,8 +5,11 @@ English | [Русский](./README.ru.md)
 # [Telegram](https://telegram.org) Bot Template (fastapi-aiogram-ngrok-template-bot)
 
 [![Pylint](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/pylint.yml/badge.svg)](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/pylint.yml) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+<<<<<<< HEAD
 
 </div>
+=======
+>>>>>>> d255ac3688ab66d932d7fde9809f208c9c3d50cf
 
 Template for [Telegram](https://telegram.org) bot using [aiogram](https://aiogram.dev) and [webhooks](https://en.wikipedia.org/wiki/Webhook) with [FastAPI](https://fastapi.tiangolo.com)
 

@@ -5,8 +5,11 @@
 # Образец [Telegram](https://telegram.org/) бота (fastapi-aiogram-ngrok-template-bot)
 
 [![Pylint](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/pylint.yml/badge.svg)](https://github.com/amozebus/fastapi-aiogram-ngrok-template-bot/actions/workflows/pylint.yml) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+<<<<<<< HEAD
 
 </div>
+=======
+>>>>>>> d255ac3688ab66d932d7fde9809f208c9c3d50cf
 
 Образец [Telegram](https://telegram.org) бота на [aiogram](https://aiogram.dev) и [вебхуках](https://ru.wikipedia.org/wiki/Webhook) на [FastAPI](https://fastapi.tiangolo.com)
 
