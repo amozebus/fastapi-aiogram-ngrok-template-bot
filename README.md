@@ -10,7 +10,7 @@ English | [Русский](./README.ru.md)
 
 Template for [Telegram](https://telegram.org) bot using [aiogram](https://aiogram.dev) and [webhooks](https://en.wikipedia.org/wiki/Webhook) with [FastAPI](https://fastapi.tiangolo.com)
 
-Deploy with [Docker](https://docker.com) (Compose) and [ngrok](https://ngrok.com)
+[Tunneling](https://en.wikipedia.org/wiki/Tunneling_protocol) webhook to the web with [ngrok](https://ngrok.com)
 
 ## How to launch 
 
