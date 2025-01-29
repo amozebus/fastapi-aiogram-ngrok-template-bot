@@ -30,11 +30,7 @@ For Windows:
 
 For Linux:
 
-6. Install `docker`, `docker-compose` packages with package manager of your distro (example for Arch):
-
-```sh
-pacman -S docker docker-compose
-```
+6. Install `docker`, `docker-compose` packages with package manager of your distro
 
 7. Run this command in root of project:
 
